@@ -1,6 +1,6 @@
 
 #### Details of the files are as follows: 
-
+#### Predict the damage caused to the buildings due to earthquake
 #### train.csv : 
 
 |Varaible| Descrition|
